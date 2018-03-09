@@ -37,7 +37,7 @@ INSERT INTO character_books (character_id, book_id) VALUES
 (8, 3);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
-("Frodo", "motto1", "hobbit", 1, 1),
+("Frodo", "ring bearer", "hobbit", 1, 1),
 ("Legolas", "motto2", "Elf", 1, 1),
 ("Gimli", "motto3", "dwarf", 1, 1),
 ("Aragorn", "motto4", "human", 1, 1),
