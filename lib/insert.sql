@@ -34,7 +34,7 @@ INSERT INTO character_books (character_id, book_id) VALUES
 (6, 5),
 (6, 6),
 (7, 2),
-(8, 3),
+(8, 3);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Frodo", "motto1", "hobbit", 1, 1),
