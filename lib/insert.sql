@@ -45,4 +45,3 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Ron", "motto6", "human", 2, 2),
 ("Hedwig", "motto7", "Owl", 2, 2),
 ("Scabbers", "motto8", "rat", 2, 2);
-
